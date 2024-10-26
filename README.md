@@ -6,24 +6,32 @@ The goal of this project is to develop a deep learning model that can accurately
 ![image](https://github.com/user-attachments/assets/6575be71-82f6-4416-98b4-3f1507085b8d)
 
 ## 2. Table of Contents
-[Dataset]()
+[Dataset](https://github.com/elnemr19/Plant-Disease-Detection/tree/main?tab=readme-ov-file#3-dataset)
 
-[Preprocessing]()
+[Preprocessing](https://github.com/elnemr19/Plant-Disease-Detection/tree/main?tab=readme-ov-file#4-preprocessing)
 
-[Model Overview]()
+[Model Overview](https://github.com/elnemr19/Plant-Disease-Detection/tree/main?tab=readme-ov-file#5model-overview)
 
-[Results]()
+[Results](https://github.com/elnemr19/Plant-Disease-Detection/tree/main?tab=readme-ov-file#6-results)
 
-[Deployment]()
+[Deployment](https://github.com/elnemr19/Plant-Disease-Detection/tree/main?tab=readme-ov-file#7-deployment)
 
 
 ## 3. Dataset
 
+**Source** : Kaggle - [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+**Description** :the data contain the folders, Train - Validation, which is categorized into 38 different classes
 
 ## 4. Preprocessing
+In this process i resize my images into 100 X 100 ,and i make augmentation on my data by do rotation by 50, zoom by 0.2, rescale by 1/255.0, and split my training data into train and validation by 
+90 % - 10 % 
+
+I also use flow_from_directory to read and processing my data by batches, beacause my data is large and i can't add it into listes
+
 
 
 ## 5.Model Overview
+
 
 ## 6. Results
 
