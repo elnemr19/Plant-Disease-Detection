@@ -35,6 +35,9 @@ I also use flow_from_directory to read and processing my data by batches, beacau
 
 ## 6. Results
 
+![kk](https://github.com/user-attachments/assets/c734fea6-645b-426b-a58c-ba805632ce7a)
+
+
 
 ## 7. Deployment
 
