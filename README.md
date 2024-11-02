@@ -43,7 +43,7 @@ I also use flow_from_directory to read and processing my data by batches, beacau
 
 I use streamlit to make user interface 
 
-link: [http://192.168.1.51:8501](Plant Disease App)
+link: [Plant Disease App](http://192.168.1.51:8501)
 
 
 ![image](https://github.com/user-attachments/assets/cafa45d2-c01d-4952-96a0-07f53d7b59f1)
